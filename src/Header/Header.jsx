@@ -1,5 +1,6 @@
 import { Container } from "@mantine/core";
-import { Button } from "@mantine/core";
+import { Button, ActionIcon } from "@mantine/core";
+import { IconDotsVertical, IconLayout, IconLayout2 } from "@tabler/icons-react";
 import logo from "./logo.png";
 import classes from "./Header.module.css";
 
@@ -13,7 +14,15 @@ export function Header() {
           </div>
           <h1 class="text-2xl font-bold">Tech Hive</h1>
         </div>
-        <Button>Login</Button>
+        <div className="flex gap-1">
+          <Button variant="subtle">
+            <IconLayout />
+          </Button>
+          <Button style={{ backgroundColor: '#FFE57E', color: 'black' }}>LOGIN/REGISTER</Button>
+          <ActionIcon size="lg" variant="default">
+            <IconDotsVertical size={18} />
+          </ActionIcon>
+        </div>
       </Container>
     </header>
   );
