@@ -1,16 +1,7 @@
-import { useState } from "react";
-import { Container, Group, Burger } from "@mantine/core";
+import { Container } from "@mantine/core";
 import { Button } from "@mantine/core";
-import { useDisclosure } from "@mantine/hooks";
 import logo from "./logo.png";
 import classes from "./Header.module.css";
-
-const links = [
-  { link: "/about", label: "Features" },
-  { link: "/pricing", label: "Pricing" },
-  { link: "/learn", label: "Learn" },
-  { link: "/community", label: "Community" },
-];
 
 export function Header() {
   return (
