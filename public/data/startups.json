@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "EcoTech Solutions",
+      "description": "Developing sustainable energy solutions for urban environments",
+      "founded": 2018,
+      "employees": 45,
+      "funding": "$12M",
+      "url": "https://ecotechsolutions.com",
+      "tags": ["sustainable", "energy", "tech", "innovation"]
+    },
+    {
+      "id": 2,
+      "name": "HealthSync",
+      "description": "AI-powered health monitoring and predictive analytics platform",
+      "founded": 2020,
+      "employees": 28,
+      "funding": "$5.5M",
+      "url": "https://healthsync.io",
+      "tags": ["health", "ai", "tech", "innovation"]
+    },
+    {
+      "id": 3,
+      "name": "CryptoVault",
+      "description": "Secure cryptocurrency storage and trading solutions",
+      "founded": 2017,
+      "employees": 62,
+      "funding": "$18M",
+      "url": "https://cryptovault.ca",
+      "tags": ["cryptocurrency", "tech", "innovation"]
+    },
+    {
+      "id": 4,
+      "name": "AquaCulture",
+      "description": "Innovative aquaponics systems for urban farming",
+      "founded": 2019,
+      "employees": 33,
+      "funding": "$7.2M",
+      "url": "https://aquaculture.tech",
+      "tags": ["aquaponics", "urban", "farming", "tech", "innovation"]
+    },
+    {
+      "id": 5,
+      "name": "NeuralLearn",
+      "description": "Personalized AI-driven education platforms",
+      "founded": 2021,
+      "employees": 15,
+      "funding": "$3.8M",
+      "url": "https://neurallearn.edu",
+      "tags": ["ai", "education", "tech", "innovation"]
+    },
+    {
+      "id": 6,
+      "name": "GreenCommute",
+      "description": "Electric bike-sharing and sustainable urban transportation",
+      "founded": 2016,
+      "employees": 80,
+      "funding": "$22M",
+      "url": "https://greencommute.ride",
+      "tags": ["electric", "bike", "sharing", "sustainable", "transportation", "tech", "innovation"]
+    },
+    {
+      "id": 7,
+      "name": "VRArchitect",
+      "description": "Virtual reality tools for architectural design and visualization",
+      "founded": 2018,
+      "employees": 40,
+      "funding": "$9.5M",
+      "url": "https://vrarchitect.design",
+      "tags": ["virtual", "reality", "architecture", "design", "tech", "innovation"]
+    },
+    {
+      "id": 8,
+      "name": "BioInnovate",
+      "description": "Developing biodegradable alternatives to single-use plastics",
+      "founded": 2020,
+      "employees": 25,
+      "funding": "$6.7M",
+      "url": "https://bioinnovate.eco",
+      "tags": ["biodegradable", "plastics", "alternatives", "tech", "innovation"]
+    },
+    {
+      "id": 9,
+      "name": "CloudSecure",
+      "description": "Advanced cloud security and threat detection services",
+      "founded": 2017,
+      "employees": 55,
+      "funding": "$15.3M",
+      "url": "https://cloudsecure.net",
+      "tags": ["cloud", "security", "tech", "innovation"]
+    },
+    {
+      "id": 10,
+      "name": "FoodConnect",
+      "description": "AI-powered platform connecting local farmers with restaurants",
+      "founded": 2019,
+      "employees": 38,
+      "funding": "$8.9M",
+      "url": "https://foodconnect.farm",
+      "tags": ["ai", "local", "farmers", "restaurants", "tech", "innovation"]
+    }
+  ]

@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "New AI Breakthrough in Natural Language Processing",
+      "date": "2023-03-15",
+      "content": "Researchers at Tech University have announced a significant advancement in AI-powered natural language processing, potentially revolutionizing human-computer interactions.",
+      "author": "Dr. Jane Smith",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["AI", "Natural Language Processing", "Technology"]
+    },
+    {
+      "id": 2,
+      "title": "Global Climate Summit Reaches Landmark Agreement",
+      "date": "2023-04-22",
+      "content": "World leaders have signed a historic climate accord, pledging to reduce carbon emissions by 50% before 2030 in a bid to combat global warming.",
+      "author": "John Doe",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Environment", "Climate Change", "Global Warming"]
+    },
+    {
+      "id": 3,
+      "title": "Stock Market Soars to Record Highs",
+      "date": "2023-05-10",
+      "content": "The S&P 500 and Nasdaq reached unprecedented levels today, driven by strong corporate earnings and optimistic economic forecasts.",
+      "author": "Sarah Johnson",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Finance", "Stock Market", "Economy"]
+    },
+    {
+      "id": 4,
+      "title": "Breakthrough in Quantum Computing Achieved",
+      "date": "2023-06-05",
+      "content": "Scientists have successfully demonstrated a 1000-qubit quantum computer, marking a major milestone in the field of quantum computing.",
+      "author": "Dr. Michael Chen",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Science", "Quantum Computing", "Technology"]
+    },
+    {
+      "id": 5,
+      "title": "New Cancer Treatment Shows Promising Results",
+      "date": "2023-07-18",
+      "content": "A novel immunotherapy approach has shown remarkable success in early clinical trials, offering hope for patients with advanced-stage cancers.",
+      "author": "Dr. Emily Brown",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Health", "Cancer", "Immunotherapy"]
+    },
+    {
+      "id": 6,
+      "title": "Major Cybersecurity Breach Affects Millions",
+      "date": "2023-08-30",
+      "content": "A large-scale cyberattack on a popular cloud service provider has compromised personal data of millions of users worldwide.",
+      "author": "Alex Turner",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Technology", "Cybersecurity", "Breach"]
+    },
+    {
+      "id": 7,
+      "title": "Historic Peace Treaty Signed in Middle East",
+      "date": "2023-09-12",
+      "content": "Long-standing regional rivals have agreed to a comprehensive peace treaty, potentially reshaping geopolitics in the Middle East.",
+      "author": "Maria Garcia",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Politics", "Middle East", "Peace Treaty"]
+    },
+    {
+      "id": 8,
+      "title": "Revolutionary Electric Aircraft Completes First Flight",
+      "date": "2023-10-05",
+      "content": "A fully electric commercial aircraft has successfully completed its maiden voyage, marking a significant step towards sustainable air travel.",
+      "author": "Tom Wilson",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Transportation", "Electric Aircraft", "Sustainable Air Travel"]
+    },
+    {
+      "id": 9,
+      "title": "Global Initiative Launched to Clean Ocean Plastic",
+      "date": "2023-11-20",
+      "content": "A coalition of countries and organizations has announced a $5 billion project to remove plastic waste from the world's oceans over the next decade.",
+      "author": "Lisa Green",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Environment", "Ocean Plastic", "Clean Ocean"]
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence Wins Prestigious Art Competition",
+      "date": "2023-12-01",
+      "content": "In a controversial decision, an AI-generated artwork has been awarded first prize in an international art competition, sparking debates about creativity and authorship.",
+      "author": "Robert Lee",
+      "url": "https://www.technews.com/ai-natural-language-processing",
+      "tags": ["Culture", "Art", "AI Art"]
+    }
+  ]

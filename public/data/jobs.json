@@ -1,0 +1,144 @@
+[
+  {
+    "title": "React Developer",
+    "postDate": "Sept 12, 2024",
+    "description": "Responsible for developing UI components using React.js and ensuring high performance across platforms.",
+    "url": "https://company1.com/jobs/react-developer",
+    "payRange": "$75,000 - $90,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "react",
+      "developer",
+      "full-time"
+    ]
+  },
+  {
+    "title": "Frontend Engineer",
+    "postDate": "Sept 10, 2024",
+    "description": "Work closely with product designers and engineers to deliver high-quality, scalable web applications.",
+    "url": "https://company2.com/jobs/frontend-engineer",
+    "payRange": "$80,000 - $95,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "react",
+      "developer",
+      "full-time"
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "postDate": "Sept 8, 2024",
+    "description": "Develop RESTful APIs, maintain databases, and optimize backend systems.",
+    "url": "https://company3.com/jobs/backend-developer",
+    "payRange": "$70,000 - $85,000",
+    "type": "Contract",
+    "tags": [
+      "job",
+      "backend",
+      "developer",
+      "contract"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "postDate": "Sept 11, 2024",
+    "description": "Analyze data trends and generate reports to help the company make informed business decisions.",
+    "url": "https://company4.com/jobs/data-analyst",
+    "payRange": "$60,000 - $75,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "data",
+      "analyst",
+      "full-time"
+    ]
+  },
+  {
+    "title": "Cloud Architect",
+    "postDate": "Sept 9, 2024",
+    "description": "Design and implement cloud infrastructure solutions on AWS, Azure, or Google Cloud.",
+    "url": "https://company5.com/jobs/cloud-architect",
+    "payRange": "$100,000 - $120,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "cloud",
+      "architect",
+      "full-time"
+    ]
+  },
+  {
+    "title": "UX/UI Designer",
+    "postDate": "Sept 13, 2024",
+    "description": "Create user-centric designs and collaborate with developers to implement intuitive interfaces.",
+    "url": "https://company6.com/jobs/ux-ui-designer",
+    "payRange": "$65,000 - $80,000",
+    "type": "Part-Time",
+    "tags": [
+      "job",
+      "ux",
+      "ui",
+      "designer",
+      "part-time"
+    ]
+  },
+  {
+    "title": "Python Developer",
+    "postDate": "Sept 12, 2024",
+    "description": "Build and maintain Python applications, with a focus on backend services and APIs.",
+    "url": "https://company7.com/jobs/python-developer",
+    "payRange": "$85,000 - $95,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "python",
+      "developer",
+      "full-time"
+    ]
+  },
+  {
+    "title": "Technical Support Engineer",
+    "postDate": "Sept 14, 2024",
+    "description": "Provide technical support to clients and troubleshoot software issues.",
+    "url": "https://company8.com/jobs/technical-support-engineer",
+    "payRange": "$50,000 - $65,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "technical",
+      "support",
+      "engineer",
+      "full-time"
+    ]
+  },
+  {
+    "title": "Project Manager",
+    "postDate": "Sept 7, 2024",
+    "description": "Oversee project timelines and collaborate with cross-functional teams to deliver projects on time.",
+    "url": "https://company9.com/jobs/project-manager",
+    "payRange": "$90,000 - $110,000",
+    "type": "Contract",
+    "tags": [
+      "job",
+      "project",
+      "manager",
+      "contract"
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "postDate": "Sept 6, 2024",
+    "description": "Manage infrastructure, automation, and CI/CD pipelines for a high-traffic web platform.",
+    "url": "https://company10.com/jobs/devops-engineer",
+    "payRange": "$95,000 - $110,000",
+    "type": "Full-Time",
+    "tags": [
+      "job",
+      "devops",
+      "engineer",
+      "full-time"
+    ]
+  }
+]
