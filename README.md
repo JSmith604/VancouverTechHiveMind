@@ -9,8 +9,8 @@ https://discord.gg/nxWbDGvu
 1. Clone the repo with SSH
 2. cd into the repo `VancouverTechHiveMind`
 3. cd into the frontend `vancouver-tech-hive-mind`
-4. Type `npm install`
-5. Type `npm start`
+4. Type ` pnpm install`
+5. Type `pnpm start`
 
 # Getting Started with Create React App
 
