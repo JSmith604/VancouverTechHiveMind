@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Container, Group, Burger } from "@mantine/core";
+import { Button } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import logo from "./logo.svg";
 import classes from "./Header.module.css";
@@ -12,39 +13,14 @@ const links = [
 ];
 
 export function Header() {
-  const [opened, { toggle }] = useDisclosure(false);
-  const [active, setActive] = useState(links[0].link);
-
-  const items = links.map((link) => (
-    <a
-      key={link.label}
-      href={link.link}
-      className={classes.link}
-      data-active={active === link.link || undefined}
-      onClick={(event) => {
-        event.preventDefault();
-        setActive(link.link);
-      }}
-    >
-      {link.label}
-    </a>
-  ));
-
   return (
-    <header className={classes.header}>
-      <Container size="md" className={classes.inner}>
-        <img
-          src={logo}
-          className={classes.logo}
-          height={32}
-          width={32}
-          alt="logo"
-        />
-        <Group gap={5} visibleFrom="xs">
-          {items}
-        </Group>
-
-        <Burger opened={opened} onClick={toggle} hiddenFrom="xs" size="sm" />
+    <header className="p-4">
+      <Container size="xl" className={classes.inner}>
+        <div className="flex">
+          <img src={logo} className="h-9 w-9" alt="logo" />
+          <h1 class="text-2xl font-bold">Tech Hive</h1>
+        </div>
+        <Button>Login</Button>
       </Container>
     </header>
   );

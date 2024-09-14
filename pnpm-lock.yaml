@@ -90,6 +90,9 @@ importers:
         specifier: ^2.1.4
         version: 2.1.4
     devDependencies:
+      autoprefixer:
+        specifier: ^10.4.20
+        version: 10.4.20(postcss@8.4.47)
       postcss:
         specifier: ^8.4.47
         version: 8.4.47
@@ -99,6 +102,9 @@ importers:
       postcss-simple-vars:
         specifier: ^7.0.1
         version: 7.0.1(postcss@8.4.47)
+      tailwindcss:
+        specifier: ^3.4.11
+        version: 3.4.11
 
 packages:
 
