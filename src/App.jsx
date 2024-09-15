@@ -3,15 +3,19 @@ import { createTheme, MantineProvider } from "@mantine/core";
 import "@mantine/core/styles.css";
 import "./App.css";
 import { Header } from "./Header/Header";
+import { Feeds } from "./Feeds/Feeds";
 
-const theme = createTheme({
-  /** Put your mantine theme override here */
-});
+const theme = createTheme({});
 
 function App() {
   return (
     <MantineProvider theme={theme}>
       <Header />
+      <main className="flex">
+        <div>
+          <Feeds />
+        </div>
+      </main>
     </MantineProvider>
   );
 }
