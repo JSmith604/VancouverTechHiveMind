@@ -5,6 +5,7 @@ import "./App.css";
 import { Header } from "./Header/Header";
 import { Feeds } from "./Feeds/Feeds";
 import { Events } from "./Events/Events";
+import { Jobs } from "./Jobs/Jobs";
 
 const theme = createTheme({});
 
@@ -17,7 +18,7 @@ function App() {
           <Feeds />
         </div>
         <div>
-          {/* Jobs */}
+          <Jobs />
         </div>
         <div>
           <Events />
