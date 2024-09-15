@@ -14,11 +14,15 @@ export function Header() {
           </div>
           <h1 class="text-2xl font-bold">Tech Hive</h1>
         </div>
-        <div className="flex gap-1">
-          <Button variant="subtle">
-            <IconLayout />
+        <div className="flex gap-2">
+          <div className="text-right">
+            <p className="text-gray-600 font-bold hover:text-blue-500 transition-colors text-sm">Vancouver, Canada</p>
+            <p className="text-gray-600 hover:text-blue-500 transition-colors text-xs underline">Change city</p>
+          </div>
+          <Button variant="default" style={{ width: 'auto', padding: '0.5rem' }}>
+            <IconLayout className="text-gray-600 hover:text-blue-500 transition-colors" />
           </Button>
-          <Button style={{ backgroundColor: '#FFE57E', color: 'black' }}>LOGIN/REGISTER</Button>
+          <Button style={{ backgroundColor: '#FFE57E', color: 'black', fontSize: '11px' }}>LOGIN / REGISTER</Button>
           <ActionIcon size="lg" variant="default">
             <IconDotsVertical size={18} />
           </ActionIcon>
