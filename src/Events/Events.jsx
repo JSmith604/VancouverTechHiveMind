@@ -7,14 +7,19 @@ const events = [
   {
     id: 1,
     name: "BEGINNERS: TECHNICAL SEO WORKSHOP",
+    description: "Learn how to optimize your website for search engines.",
   },
   {
     id: 2,
     name: "INTERMEDIATE: TECHNICAL SEO WORKSHOP ",
+    description:
+      "Learn how to optimize your website for search engines with intermediate techniques.",
   },
   {
     id: 3,
     name: "ADVANCED: TECHNICAL SEO WORKSHOP ",
+    description:
+      "Learn how to optimize your website for search engines with advanced techniques.",
   },
 ];
 

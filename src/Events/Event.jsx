@@ -42,7 +42,7 @@ export function Event({ event }) {
         <Text fw={700} mt="sm">
           {event.name}
         </Text>
-        <Text className="text-gray-500 text-[10px]">Description</Text>
+        <Text className="text-gray-500 text-[10px]">{event.description}</Text>
       </div>
       <div className="flex justify-between items-center mt-2">
         <Text size="xs" className="text-gray-500">
