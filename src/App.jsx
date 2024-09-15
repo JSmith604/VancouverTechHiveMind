@@ -4,6 +4,7 @@ import "@mantine/core/styles.css";
 import "./App.css";
 import { Header } from "./Header/Header";
 import { Feeds } from "./Feeds/Feeds";
+import { Events } from "./Events/Events";
 
 const theme = createTheme({});
 
@@ -14,6 +15,12 @@ function App() {
       <main className="flex">
         <div>
           <Feeds />
+        </div>
+        <div>
+          {/* Jobs */}
+        </div>
+        <div>
+          <Events />
         </div>
       </main>
     </MantineProvider>
