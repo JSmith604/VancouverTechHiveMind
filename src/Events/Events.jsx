@@ -19,11 +19,11 @@ export function Events() {
         <div className="w-[400px] p-8">
             <div className="flex justify-between mb-4">
                 <div className="flex gap-2 items-center">
-                    <h1 className="text-2xl font-bold">Jobs</h1>
+                    <h1 className="text-2xl font-bold">Events</h1>
                     <IconTriangleInvertedFilled size={12} />
                 </div>
                 <div className="flex gap-2 items-center">
-                    <Button variant="light">LATEST</Button>
+                    <Button variant="light">POPULAR</Button>
                     <ActionIcon
                         variant="white"
                         size="lg"
