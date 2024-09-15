@@ -1,51 +1,31 @@
-import { useState } from "react";
-import { Container, Group, Burger } from "@mantine/core";
-import { useDisclosure } from "@mantine/hooks";
-import logo from "./logo.svg";
+import { Container } from "@mantine/core";
+import { Button, ActionIcon } from "@mantine/core";
+import { IconDotsVertical, IconLayout, IconLayout2 } from "@tabler/icons-react";
+import logo from "./logo.png";
 import classes from "./Header.module.css";
 
-const links = [
-  { link: "/about", label: "Features" },
-  { link: "/pricing", label: "Pricing" },
-  { link: "/learn", label: "Learn" },
-  { link: "/community", label: "Community" },
-];
-
 export function Header() {
-  const [opened, { toggle }] = useDisclosure(false);
-  const [active, setActive] = useState(links[0].link);
-
-  const items = links.map((link) => (
-    <a
-      key={link.label}
-      href={link.link}
-      className={classes.link}
-      data-active={active === link.link || undefined}
-      onClick={(event) => {
-        event.preventDefault();
-        setActive(link.link);
-      }}
-    >
-      {link.label}
-    </a>
-  ));
-
   return (
-    <header className={classes.header}>
-      <Container size="md" className={classes.inner}>
-        <img
-          src={logo}
-          className={classes.logo}
-          height={32}
-          width={32}
-          alt="logo"
-        />
-        <Group gap={5} visibleFrom="xs">
-          {items}
-        </Group>
-
-        <Burger opened={opened} onClick={toggle} hiddenFrom="xs" size="sm" />
-      </Container>
+    <header className="p-4 border-b border-gray-200 flex justify-between items-center px-8">
+      <div className="flex items-center gap-1">
+        <div>
+          <img src={logo} className="h-7 w-7" alt="logo" />
+        </div>
+        <h1 class="text-2xl font-bold">Tech Hive</h1>
+      </div>
+      <div className="flex gap-2">
+        <div className="text-right">
+          <p className="text-gray-600 font-bold hover:text-blue-500 transition-colors text-sm">Vancouver, Canada</p>
+          <p className="text-gray-600 hover:text-blue-500 transition-colors text-xs underline">Change city</p>
+        </div>
+        <Button variant="default" style={{ width: 'auto', padding: '0.5rem' }}>
+          <IconLayout className="text-gray-600 hover:text-blue-500 transition-colors" />
+        </Button>
+        <Button style={{ backgroundColor: '#FFE57E', color: 'black', fontSize: '11px' }}>LOGIN / REGISTER</Button>
+        <ActionIcon size="lg" variant="default">
+          <IconDotsVertical size={18} />
+        </ActionIcon>
+      </div>
     </header>
   );
 }

@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Vancouver JS Tech Meetup",
+      "date": "Sept 12, 2024",
+      "timeStart": "07:00pm",
+      "type": "Meetup",
+      "cost": "Free",
+      "tags": ["JavaScript", "Web Development", "Networking"],
+      "url": "https://www.meetup.com/vancouver-javascript-developers/events/123456789/"
+    },
+    {
+      "name": "AI in Healthcare Symposium",
+      "date": "Oct 5, 2024",
+      "timeStart": "09:00am",
+      "type": "Conference",
+      "cost": "$199",
+      "tags": ["AI", "Healthcare", "Machine Learning"],
+      "url": "https://aihealthcare-symposium.com/vancouver2024"
+    },
+    {
+      "name": "Vancouver Game Developers Workshop",
+      "date": "Nov 18, 2024",
+      "timeStart": "10:00am",
+      "type": "Workshop",
+      "cost": "$50",
+      "tags": ["Game Development", "Unity", "Unreal Engine"],
+      "url": "https://vancouvergamedev.com/workshop2024"
+    },
+    {
+      "name": "Blockchain Vancouver 2024",
+      "date": "Dec 3, 2024",
+      "timeStart": "08:30am",
+      "type": "Conference",
+      "cost": "$299",
+      "tags": ["Blockchain", "Cryptocurrency", "Fintech"],
+      "url": "https://blockchainvancouver.ca/2024"
+    },
+    {
+      "name": "UX/UI Design Trends Webinar",
+      "date": "Jan 15, 2025",
+      "timeStart": "06:00pm",
+      "type": "Webinar",
+      "cost": "Free",
+      "tags": ["UX Design", "UI Design", "Web Design"],
+      "url": "https://uxuivancouver.com/webinar-2025"
+    },
+    {
+      "name": "Vancouver Tech Job Fair",
+      "date": "Feb 22, 2025",
+      "timeStart": "11:00am",
+      "type": "Job Fair",
+      "cost": "Free",
+      "tags": ["Career", "Networking", "Tech Jobs"],
+      "url": "https://techjobfair.vancouver.ca/2025"
+    },
+    {
+      "name": "DevOps Vancouver Meetup",
+      "date": "Mar 8, 2025",
+      "timeStart": "07:30pm",
+      "type": "Meetup",
+      "cost": "Free",
+      "tags": ["DevOps", "Cloud Computing", "Automation"],
+      "url": "https://www.meetup.com/devops-vancouver/events/987654321/"
+    },
+    {
+      "name": "Women in Tech Leadership Summit",
+      "date": "Apr 19, 2025",
+      "timeStart": "09:30am",
+      "type": "Summit",
+      "cost": "$149",
+      "tags": ["Women in Tech", "Leadership", "Empowerment"],
+      "url": "https://womenintech-vancouver.org/summit2025"
+    },
+    {
+      "name": "Vancouver Cybersecurity Conference",
+      "date": "May 7, 2025",
+      "timeStart": "08:00am",
+      "type": "Conference",
+      "cost": "$249",
+      "tags": ["Cybersecurity", "InfoSec", "Network Security"],
+      "url": "https://vancouvercybersecurity.com/conference2025"
+    },
+    {
+      "name": "Vancouver Tech Startup Pitch Night",
+      "date": "Jun 14, 2025",
+      "timeStart": "06:30pm",
+      "type": "Networking",
+      "cost": "$25",
+      "tags": ["Startups", "Entrepreneurship", "Pitch Competition"],
+      "url": "https://startupvancouver.ca/pitch-night-2025"
+    }
+  ]

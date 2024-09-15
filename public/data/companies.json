@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "name": "TechNova Solutions",
+        "industry": "Software Development",
+        "founded": 2015,
+        "employees": 120,
+        "url": "https://technovasolutions.com",
+        "location": "Vancouver, BC",
+        "tags": [
+            "software",
+            "development",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "GreenLeaf Innovations",
+        "industry": "Clean Energy",
+        "founded": 2018,
+        "employees": 45,
+        "url": "https://greenleafinnovations.ca",
+        "location": "Burnaby, BC",
+        "tags": [
+            "clean",
+            "energy",
+            "sustainability",
+            "tech"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "DataMind Analytics",
+        "industry": "Data Science",
+        "founded": 2012,
+        "employees": 80,
+        "url": "https://datamindanalytics.com",
+        "location": "Vancouver, BC",
+        "tags": [
+            "data",
+            "science",
+            "analytics",
+            "tech"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "OceanTech Robotics",
+        "industry": "Marine Technology",
+        "founded": 2016,
+        "employees": 60,
+        "url": "https://oceantechrobotics.ca",
+        "location": "Victoria, BC",
+        "tags": [
+            "marine",
+            "technology",
+            "robots",
+            "tech"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "QuantumLeap Computing",
+        "industry": "Quantum Computing",
+        "founded": 2020,
+        "employees": 30,
+        "url": "https://quantumleapcomputing.com",
+        "location": "Vancouver, BC",
+        "tags": [
+            "quantum",
+            "computing",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "EcoSmart Logistics",
+        "industry": "Sustainable Transportation",
+        "founded": 2017,
+        "employees": 95,
+        "url": "https://ecosmartlogistics.ca",
+        "location": "Richmond, BC",
+        "tags": [
+            "sustainable",
+            "transportation",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "BioGen Health",
+        "industry": "Biotechnology",
+        "founded": 2014,
+        "employees": 150,
+        "url": "https://biogenhealth.com",
+        "location": "Vancouver, BC",
+        "tags": [
+            "biotechnology",
+            "health",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "CyberShield Security",
+        "industry": "Cybersecurity",
+        "founded": 2019,
+        "employees": 40,
+        "url": "https://cybershieldsecurity.ca",
+        "location": "Surrey, BC",
+        "tags": [
+            "cybersecurity",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "VR Dimensions",
+        "industry": "Virtual Reality",
+        "founded": 2018,
+        "employees": 55,
+        "url": "https://vrdimensions.com",
+        "location": "Vancouver, BC",
+        "tags": [
+            "virtual",
+            "reality",
+            "tech",
+            "innovation"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "AgroTech Innovations",
+        "industry": "Agricultural Technology",
+        "founded": 2016,
+        "employees": 70,
+        "url": "https://agrotechinnovations.ca",
+        "location": "Kelowna, BC",
+        "tags": [
+            "agricultural",
+            "technology",
+            "tech",
+            "innovation"
+        ]
+    }
+]

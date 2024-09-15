@@ -1,5 +1,9 @@
 # VancouverTechHiveMind
 
+## Check It Out
+
+https://netlify-deployment--tech-hive-mind.netlify.app/
+
 ## Discord-Server
 
 https://discord.gg/nxWbDGvu
