@@ -10,7 +10,7 @@ export function Event({ event }) {
       <Card.Section>
         <img src={eventPicture} height={160} />
       </Card.Section>
-      <div className="flex justify-between items-center mt-2">
+      <div className="flex justify-between items-center mt-4">
         <div className="flex flex-wrap gap-2">
           <Text
             size="xs"
@@ -34,7 +34,7 @@ export function Event({ event }) {
             Technical
           </Text>
         </div>
-        <Text size="xs" fw={700} className="text-align-right">
+        <Text size="sm" fw={700} className="text-align-right">
           Free
         </Text>
       </div>
