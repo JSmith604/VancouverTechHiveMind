@@ -12,7 +12,7 @@ export function Header() {
           <div>
             <img src={logo} className="h-7 w-7" alt="logo" />
           </div>
-          <h1 class="text-2xl font-bold">Tech Hive</h1>
+          <h1 class="text-3xl font-bold">Tech Hive</h1>
         </div>
         <div className="flex gap-1">
           <Button variant="subtle">
