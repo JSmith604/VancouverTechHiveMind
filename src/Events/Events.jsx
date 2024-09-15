@@ -16,7 +16,7 @@ const events = [
 
 export function Events() {
     return (
-        <div className="w-[400px] p-8 border-r border-gray-200">
+        <div className="w-[400px] p-8">
             <div className="flex justify-between mb-4">
                 <div className="flex gap-2 items-center">
                     <h1 className="text-2xl font-bold">Jobs</h1>
